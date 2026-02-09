@@ -4,7 +4,7 @@ void main(){
   int Umur = 22;
   double TinggiBadan = 179.5;
   bool AnggotaAktif = true;
-  List<String> bukufavorit = ["BiruLaut", "Madilog", "HidupJokowi"];
+  List<String> bukufavorit = ["Biru Laut", "Madilog", "Hidup Jokowi"];
   final Map<String, dynamic> datapeserta = {
     "Alamat" : "Tebet Barat",
     "Profesi" : "Siswa PPKD"
